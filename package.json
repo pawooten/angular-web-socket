@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/pawooten/angular-web-socket/issues"
   },
-  "homepage": "https://github.com/pawooten/angular-web-socket#readme"
+  "homepage": "https://github.com/pawooten/angular-web-socket#readme",
+  "devDependencies": {
+    "@types/ws": "^3.0.1",
+    "nodemon": "^1.11.0",
+    "typescript": "^2.4.1"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "ws": "^3.0.0"
+  }
 }
