@@ -1,0 +1,19 @@
+{
+  "name": "angular-web-socket",
+  "version": "1.0.0",
+  "description": "A sample application which consists of an Angular client communicating with a node.js server using web socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawooten/angular-web-socket.git"
+  },
+  "author": "Paul Wooten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawooten/angular-web-socket/issues"
+  },
+  "homepage": "https://github.com/pawooten/angular-web-socket#readme"
+}
